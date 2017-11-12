@@ -33,7 +33,8 @@ Make env.:
 
 5) Switch to Python 2.7:
 ```
-   source env/bin/activate
+   cd bryk
+   source bin/activate
    pip install -r requirements.txt
 ```
 
