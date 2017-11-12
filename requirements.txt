@@ -1,0 +1,10 @@
+flask
+Flask-SQLAlchemy
+flask-admin
+flask-security
+flask-script
+sqlalchemy
+Flask-Assets
+pylti
+pyOpenSSL
+Flask-Principal

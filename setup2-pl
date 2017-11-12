@@ -1,0 +1,4 @@
+echo "z konsoli wykonaj:"
+echo "source bin/activate"
+echo "a nastepnie ./setup3"
+

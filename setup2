@@ -1,0 +1,4 @@
+echo "type on console (and Enter):"
+echo "source bin/activate"
+echo "next: ./setup3"
+
