@@ -40,6 +40,7 @@ Make env.:
 
 6) Test:
 ```
+#  source bin/activate
   cd bryk
   python2.7 bryk.py
 ```

@@ -8,3 +8,6 @@ Flask-Assets
 pylti
 pyOpenSSL
 Flask-Principal
+wtforms-alchemy
+flask-cache
+flask-debugtoolbar

@@ -30,14 +30,14 @@ sys.setdefaultencoding("utf-8")
 
 def create_app():
   app = Flask(__name__)
-  prod=False
+  prod=True
 
   if prod:
     app.config.from_object('settings.ProdConfig')
     app.config['ENV'] = 'prod'
     app.config['DEBUG'] = False
     # initialize the cache
-    cache.init_app(app)
+ #   cache.init_app(app)
   else:
     app.config.from_object('settings.DevConfig')
     app.config['ENV'] = 'dev'
